@@ -56,6 +56,7 @@ public class PaymentProcessing {
             default:
                 System.out.println("Invalid choice. Exiting.");
                 return;
+            
         }
 
         System.out.print("Enter the payment amount: ");
